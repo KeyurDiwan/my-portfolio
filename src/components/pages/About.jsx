@@ -1,5 +1,5 @@
 import React from "react";
-import Curtis_Resume from "../../assets/Curtis_Resume.pdf";
+import Curtis_Resume from "../../assets/keyur_diwan_resume.pdf";
 import styled from "styled-components";
 // import about from "../../assets/abc.svg";
 import img from "../../assets/img.jpg";

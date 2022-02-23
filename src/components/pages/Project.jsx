@@ -2,11 +2,11 @@ import React from "react";
 import styled from "styled-components";
 
 import onnbike from '../../assets/homepa.png'
-// import sudoku from '../../assets/sudoku.png'
+import sudoku from '../../assets/sudoku.png'
 import shope from '../../assets/shope.png'
 import app from '../../assets/app.png'
 import game from '../../assets/shooting.PNG'
-import slack from '../../assets/Slack.PNG'
+// import slack from '../../assets/Slack.PNG'
 
 function Project() {
   return (
@@ -325,22 +325,22 @@ function Project() {
               </button> </a> */}
           </InnerBox>
           
-              {/* slack */}
+              {/* sudoku */}
         <InnerBox data-aos="zoom-in">
             <div>
-              <img src={slack} alt="Not Found" />
+              <img src={sudoku} alt="Not Found" />
             </div>
             <div className="detail-card">
-              <h2>Slack Clone</h2>
+              <h2>Sudoku Game</h2>
               <p>
-                In This website we can chat with people
+                 This is a sudoku game.
                 <br />
-                 This website is built with ReactJs, NodeJS, Express, CSS, gstrm.io.
+                 This game built with HTML, CSS, JavaScript.
               </p>
             </div>
 
               <a
-              href="https://github.com/KeyurDiwan/Slack-clone"
+              href="https://github.com/KeyurDiwan/sudoku-game"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -355,7 +355,7 @@ function Project() {
         
 
               <a
-              href="https://slack-clone-gstrm.netlify.app/"
+              href="https://vibrant-mcnulty-c4100a.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
